@@ -1,0 +1,7 @@
+server:
+  port: 8191
+spring:
+  security:
+    user:
+      name: root
+      password: root
